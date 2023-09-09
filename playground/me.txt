@@ -1,5 +1,0 @@
-{{#saurabh}}
-Name: Saurabh Vishwakarma
-Skills: java, MySql.
-Email: shivajeetv@gmail.com
-{{/saurabh}}
